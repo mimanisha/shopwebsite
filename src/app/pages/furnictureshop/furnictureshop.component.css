@@ -1,0 +1,13 @@
+.images{
+    height:40rem;
+    width: 100%;
+}
+.card{
+    border-radius: 5%;
+    
+    margin: 1%;
+}
+
+.card:hover{
+transform: scale(1.1);
+}

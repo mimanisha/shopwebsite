@@ -1,0 +1,44 @@
+.img{
+    height: 50rem;
+}
+
+@media(max-width:400px){
+    .img{
+        height: auto;
+    }
+}
+
+.div{
+    display: flex;
+    padding: 2%;
+    
+}
+
+.images{
+    height: 20rem;
+    width: 100%;
+}
+
+.dic{
+    display: flex;
+    padding: 2%;
+    color: orange;
+    font-size: medium;
+}
+.dic p {
+    color: orange;
+    
+    padding-right: 45%;
+}
+
+@media(max-width:400px){
+    
+.D{
+    display: none;
+}
+}
+
+
+
+
+

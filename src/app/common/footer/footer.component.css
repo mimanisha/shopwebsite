@@ -1,0 +1,28 @@
+.main{
+    background-color: black;
+    color: white;
+    padding: 5%;
+}
+
+
+.l{
+     font-size: 13px;
+     list-style: none;
+}
+
+.icon{
+    display: flex;
+}
+
+.i{
+    border: 1px solid white;
+    font-size: 20px;
+    text-align: center;
+    padding: 1%;
+    margin: 2%; 
+}
+
+.i:hover{
+    background-color: white;
+    color: rgb(255, 106, 0);
+}

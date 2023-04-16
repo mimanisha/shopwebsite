@@ -1,0 +1,43 @@
+.image{
+    height:5rem;
+    /* width: 50%; */
+}
+
+@media(max-width:400px){
+    .image{
+        float: left;
+        
+    }
+}
+
+.iconimg{
+    height: 55%;
+
+}
+.dropdown-item{
+    background-color: black;
+    color: white;
+}
+
+.f ul li a{
+    font-size: 15px;
+    color: white;
+}
+
+@media(max-width:400px){
+.ni{
+    color: white;
+}
+}
+
+.k{
+    width: 90%;
+}
+
+.nav{
+    position: fixed;
+}
+
+.m:hover{
+    background-color: rgb(251, 111, 18);
+}

@@ -1,0 +1,54 @@
+.main{
+    background-color: rgb(51, 49, 49);
+    background-image: url('https://www.oneindia.com/img/1200x60x675/2015/07/03-1435915211-shiridi-600.jpg');
+    opacity: 0.7;
+    /* position: absolute; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 5%;
+}
+
+.g{
+    /* background-color: black; */
+    /* opacity: 0.2; */
+    color: black;
+    height: 27rem;
+}
+
+
+
+
+.box{
+    border: 1px solid rgb(255, 119, 0);;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    padding-top: 30px;
+    /* margin-left: 30%; */
+    background-color: rgb(250, 119, 0);
+    color:white;
+    font-size: xx-large;
+
+}
+
+/* .box:hover{
+background-color: white;
+color: rgb(255, 119, 0);
+} */
+
+#h:hover #box{
+    background-color: white;
+    color: rgb(255, 119, 0);
+}
+.text:hover{
+    color:white;
+}
+
+.text p:hover{
+    color: white;
+}
+.h:hover{
+    background-color: rgb(255, 119, 0);;
+    color: white;
+}
